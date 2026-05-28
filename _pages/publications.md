@@ -14,7 +14,7 @@ author_profile: true
 *with Hyoshin Ki*
 
 **Impact of School Quality and Physician Location: Evidence from New York State**
-*with Hyoshin Ki and Chun-Yu Ho*
+*with Chun-Yu Ho and Hyoshin Ki*
 
 ---
 

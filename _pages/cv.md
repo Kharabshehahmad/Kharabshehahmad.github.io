@@ -44,7 +44,7 @@ University of Jordan — Amman, Jordan
 University at Albany, SUNY<br>
 *Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
 
-**J.T. and Margaret Talkington Recruitment Fellowship**, 2021<br>
+**J.T. and Margaret Talkington Recruitment Fellowship**, 2019<br>
 Texas Tech University<br>
 *Donor-funded external fellowship awarded to exceptional incoming graduate students.*
 

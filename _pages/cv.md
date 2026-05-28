@@ -12,8 +12,6 @@ University at Albany, SUNY
 Catskill Building, Room 394
 Albany, NY 12222
 
-📧 akharabsheh@albany.edu
-
 ---
 
 ## Research Interests

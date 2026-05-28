@@ -50,10 +50,6 @@ University at Albany, SUNY<br>
 Texas Tech University<br>
 *Donor-funded external fellowship awarded to exceptional incoming graduate students.*
 
-**Academic Excellence Scholarship**, 2010–2014<br>
-University of Jordan — Amman, Jordan<br>
-*Merit-based tuition scholarship awarded each semester throughout undergraduate studies for sustained high academic performance.*
-
 ---
 
 ## Working Papers

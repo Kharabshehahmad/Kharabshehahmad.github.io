@@ -29,16 +29,22 @@ I have consistently received teaching evaluations above the departmental average
 > "Key topics are presented with clarity, ensuring students build strong conceptual understanding. The course links theory to real-world applications. The instructor fosters a dynamic learning environment, encouraging active participation from students."
 
 ---
+## Academic Experience
 
-## Part-time Lecturer (2024–Present)
-
+### Part-time Lecturer (2024–Present)
 *Department of Economics, University at Albany, SUNY*
+
+**Courses Taught:**
 
 - **AECO 355 — Public Finance** (Undergraduate, in-person) — Two sections per semester: Fall 2024, Spring 2025, Fall 2025, Spring 2026
 - **AECO 300 — Intermediate Microeconomics** (Online) — Summer 2025, Summer 2026
-- *Upcoming (Fall 2026):* AECO 110 — Principles of Microeconomics (1 section), AECO 355 — Public Finance (1 section)
 
-## Graduate Assistant (2021–2024)
+**Upcoming (Fall 2026):**
+
+- AECO 110 — Principles of Microeconomics (1 section)
+- AECO 355 — Public Finance (1 section)
+
+### Graduate Assistant (2021–2024)
 
 *Department of Economics, University at Albany, SUNY*
 

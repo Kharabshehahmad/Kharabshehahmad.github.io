@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-**Department of Economics**
-University at Albany, SUNY
-Catskill Building, Room 394
+# Ahmad A. Kharabsheh
+
+**Department of Economics**<br>
+University at Albany, SUNY<br>
+Catskill Building, Room 394<br>
 Albany, NY 12222
 
 ---
@@ -38,12 +40,12 @@ University of Jordan — Amman, Jordan
 
 ## Awards & Honors
 
-**Helen Horowitz Award for Outstanding Teaching by a Graduate Student**, 2025
-University at Albany, SUNY
+**Helen Horowitz Award for Outstanding Teaching by a Graduate Student**, 2025<br>
+University at Albany, SUNY<br>
 *Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
 
-**J.T. and Margaret Talkington Recruitment Fellowship**, 2020
-Texas Tech University
+**J.T. and Margaret Talkington Recruitment Fellowship**, 2021<br>
+Texas Tech University<br>
 *Donor-funded external fellowship awarded to exceptional incoming graduate students.*
 
 ---

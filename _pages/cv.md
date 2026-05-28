@@ -40,13 +40,19 @@ University of Jordan — Amman, Jordan
 
 ## Awards & Honors
 
+## Awards & Honors
+
 **Helen Horowitz Award for Outstanding Teaching by a Graduate Student**, 2025<br>
 University at Albany, SUNY<br>
 *Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
 
-**J.T. and Margaret Talkington Recruitment Fellowship**, 2019<br>
+**J.T. and Margaret Talkington Recruitment Fellowship**, 2021<br>
 Texas Tech University<br>
 *Donor-funded external fellowship awarded to exceptional incoming graduate students.*
+
+**Academic Excellence Scholarship**, 2010–2014<br>
+University of Jordan — Amman, Jordan<br>
+*Merit-based tuition scholarship awarded each semester throughout undergraduate studies for sustained high academic performance.*
 
 ---
 

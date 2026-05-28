@@ -40,8 +40,6 @@ University of Jordan — Amman, Jordan
 
 ## Awards & Honors
 
-## Awards & Honors
-
 **Helen Horowitz Award for Outstanding Teaching by a Graduate Student**, 2025<br>
 University at Albany, SUNY<br>
 *Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*

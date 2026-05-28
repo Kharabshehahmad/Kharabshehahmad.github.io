@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+## Working Papers
+
+**Neighborhood Deprivation and Geographical Access to Physicians**
+*with Chun-Yu Ho*
+
+**When Training Stops: The Effects of Residency Program Closures on Mortality Rate**
+*with Hyoshin Ki*
+
+**Impact of School Quality and Physician Location: Evidence from New York State**
+*with Hyoshin Ki and Chun-Yu Ho*
+
+---
+

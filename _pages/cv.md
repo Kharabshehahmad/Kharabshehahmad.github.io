@@ -80,14 +80,11 @@ Texas Tech University<br>
 - **Teaching Assistant — AECO 355 Public Finance** (Fall 2022)
 - **Tutor — AECO 110 Principles of Microeconomics & AECO 111 Principles of Macroeconomics** (Spring 2022, Spring 2023)
 
-### Teaching Assistant (2015–2016)
-*Department of Business Economics, University of Jordan — Amman, Jordan*
-
 ---
 
 ## Skills & Certifications
 
-**Technical:** STATA, R, MATLAB, SAS, Microsoft Office
+**Technical:** STATA, R, MATLAB, Microsoft Office
 
 **Certifications:**
 - MATLAB, SAS, and R Course Training Certificate — Texas Tech University, 2020

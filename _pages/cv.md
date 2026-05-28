@@ -52,14 +52,16 @@ Texas Tech University<br>
 
 ## Working Papers
 
-**Neighborhood Deprivation and Geographical Access to Physicians**
-*with Chun-Yu Ho*
-
 **When Training Stops: The Effects of Residency Program Closures on Mortality Rate**
 *with Hyoshin Ki*
 
+**Neighborhood Deprivation and Geographical Access to Physicians**
+*with Chun-Yu Ho*
+
+## Work in Progress
+
 **Impact of School Quality and Physician Location: Evidence from New York State**
-*with Hyoshin Ki and Chun-Yu Ho*
+*with Chun-Yu Ho and Hyoshin Ki*
 
 ---
 

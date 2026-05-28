@@ -7,58 +7,95 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Department of Economics**
+University at Albany, SUNY
+Catskill Building, Room 394
+Albany, NY 12222
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📧 akharabsheh@albany.edu
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Health Economics, Public Economics, Applied Microeconomics
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Education
+
+**Ph.D. in Econometrics and Quantitative Economics** *(in progress)*
+University at Albany, SUNY — Albany, NY
+
+**M.A. in Economics**, 2021
+Texas Tech University — Lubbock, TX
+
+**M.A. in Business Economics**, 2016
+University of Jordan — Amman, Jordan
+
+**B.A. in Business Economics**, 2014
+University of Jordan — Amman, Jordan
+
+---
+
+## Awards & Honors
+
+**Helen Horowitz Award for Outstanding Teaching by a Graduate Student**, 2025
+University at Albany, SUNY
+*Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
+
+**J.T. and Margaret Talkington Recruitment Fellowship**, 2020
+Texas Tech University
+*Donor-funded external fellowship awarded to exceptional incoming graduate students.*
+
+---
+
+## Working Papers
+
+**Neighborhood Deprivation and Geographical Access to Physicians**
+*with Chun-Yu Ho*
+
+**When Training Stops: The Effects of Residency Program Closures on Mortality Rate**
+*with Hyoshin Ki*
+
+**Impact of School Quality and Physician Location: Evidence from New York State**
+*with Hyoshin Ki and Chun-Yu Ho*
+
+---
+
+## Academic Experience
+
+### Part-time Lecturer (2024–Present)
+*Department of Economics, University at Albany, SUNY*
+
+- **AECO 355 — Public Finance** (Undergraduate, in-person): Two sections per semester — Fall 2024, Spring 2025, Fall 2025, Spring 2026
+- **AECO 300 — Intermediate Microeconomics** (Online): Summer 2025, Summer 2026
+- *Upcoming (Fall 2026):* AECO 110 — Principles of Microeconomics, AECO 355 — Public Finance
+
+### Graduate Assistant (2021–2024)
+*Department of Economics, University at Albany, SUNY*
+
+- **Instructor — AECO 111 Principles of Macroeconomics** (Spring 2024)
+- **Teaching Assistant — AECO 374W Industrial Organization** (Fall 2023)
+- **Teaching Assistant — AECO 355 Public Finance** (Fall 2022)
+- **Tutor — AECO 110 Principles of Microeconomics & AECO 111 Principles of Macroeconomics** (Spring 2022, Spring 2023)
+
+### Teaching Assistant (2015–2016)
+*Department of Business Economics, University of Jordan — Amman, Jordan*
+
+---
+
+## Skills & Certifications
+
+**Technical:** STATA, R, MATLAB, SAS, Microsoft Office
+
+**Certifications:**
+- MATLAB, SAS, and R Course Training Certificate — Texas Tech University, 2020
+- Research Strategies Training Program Certificate — Texas Tech University, 2020
+
+---
+
+## Languages
+
+- **English:** Fluent
+- **Arabic:** Native

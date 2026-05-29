@@ -64,7 +64,13 @@ Texas Tech University<br>
 *with Chun-Yu Ho and Hyoshin Ki*
 
 ---
+## Conference Presentations
 
+**"When Training Stops: The Effects of Residency Program Closures on Mortality Rate"** *(with Hyoshin Ki)*<br>
+ASSA Annual Meeting — Washington, D.C., January 2027<br>
+*Selected by the ASHEcon ASSA Sessions Committee (pending ASSA confirmation).*
+
+---
 ## Academic Experience
 
 ### Part-time Lecturer (2024–Present)

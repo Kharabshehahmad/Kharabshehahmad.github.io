@@ -16,7 +16,7 @@ main:
     url: /teaching/    
     
 
-- title: "CV"
+  - title: "CV"
     url: /files/ahmad_cv.pdf
     
   # - title: "CV"

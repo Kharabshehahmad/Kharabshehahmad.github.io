@@ -13,4 +13,4 @@ My research is in **Health Economics**, focusing on physician location, healthca
 
 I will be presenting my work on residency program closures and mortality at the **ASSA 2027 Annual Meeting** in Washington, D.C., as part of an ASHEcon-nominated session.
 
-For more, see my [Research](/publications/), [Teaching](/teaching/), and [CV](/files/ahmad_cv_no_phone.pdf).
+For more, see my [Research](/research/), [Teaching](/teaching/), and [CV](/files/ahmad_cv_no_phone.pdf).

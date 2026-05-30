@@ -11,6 +11,4 @@ I am a PhD Candidate in the Department of Economics at the **University at Alban
 
 My research is in **Health Economics**, focusing on physician location, healthcare access, and the effects of healthcare workforce disruptions on population health. I also teach Public Finance and Intermediate Microeconomics at UAlbany.
 
-I will be presenting my work on residency program closures and mortality at the **ASSA 2027 Annual Meeting** in Washington, D.C., as part of an ASHEcon-nominated session.
-
 For more, see my [Research](/research/), [Teaching](/teaching/), and [CV](/files/ahmad_cv_no_phone.pdf).

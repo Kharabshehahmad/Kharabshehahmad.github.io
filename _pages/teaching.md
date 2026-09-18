@@ -5,9 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Recognition
+
+**Helen Horowitz Award for Outstanding Teaching by a Graduate Student** — University at Albany, SUNY (2025)
+*Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
+
 ## Teaching Evaluations
 
-I have consistently received teaching evaluations above the departmental average across all semesters as instructor of record for AECO 355 — Public Finance at the University at Albany, SUNY. Full evaluation reports are available upon request.
+I have received teaching evaluations above the departmental average across all semesters as instructor of record for AECO 355 — Public Finance at the University at Albany, SUNY. Full evaluation reports are available upon request.
+
 
 ### Summary (5-point scale)
 
@@ -18,15 +24,18 @@ I have consistently received teaching evaluations above the departmental average
 | Fall 2025   | 4.25               | 4.05      | 4.25           | 3.96      |
 | Spring 2026 | 4.55               | 3.99      | 4.21           | 3.94      |
 
+
 ### Selected Student Comments
 
 > "Without a doubt the best course I've taken so far in undergrad. Communicated effectively, challenging but gives all the tools necessary to be successful. Outstanding."
 
-> "Literally the most straight forward, intelligent, kind, humble professor. Doesn't do busy work which I love, doesn't like checking boxes, knows what he is teaching us and why."
+> "Ability to tailor the material to meet the varying levels of the students in class. Acceptable and open to ideas and feedback."
 
 > "The instructor is able to successfully plan and execute the course material. Everything in the course was straightforward and understandable. Overall, a very organized class, and I would recommend it to anyone."
 
 > "Key topics are presented with clarity, ensuring students build strong conceptual understanding. The course links theory to real-world applications. The instructor fosters a dynamic learning environment, encouraging active participation from students."
+
+> "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
 
 ---
 ## Academic Experience
@@ -36,19 +45,16 @@ I have consistently received teaching evaluations above the departmental average
 
 **Courses Taught:**
 
-- **AECO 355 — Public Finance** (Undergraduate, in-person) — Two sections per semester: Fall 2024, Spring 2025, Fall 2025, Spring 2026
-- **AECO 300 — Intermediate Microeconomics** (Online) — Summer 2025, Summer 2026
+- **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
+- **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
+- **AECO 111 — Principles of Macroeconomics** (Undergraduate, in-person)— Fall 2026
+- **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Spring 2024
 
-**Upcoming (Fall 2026):**
-
-- AECO 110 — Principles of Microeconomics (1 section)
-- AECO 355 — Public Finance (1 section)
 
 ### Graduate Assistant (2021–2024)
 
 *Department of Economics, University at Albany, SUNY*
 
-- **Instructor — AECO 111 Principles of Macroeconomics** (Spring 2024)
 - **Teaching Assistant — AECO 374W Industrial Organization** (Fall 2023)
 - **Teaching Assistant — AECO 355 Public Finance** (Fall 2022)
 - **Tutor — AECO 110 Principles of Microeconomics & AECO 111 Principles of Macroeconomics** (Spring 2022, Spring 2023)

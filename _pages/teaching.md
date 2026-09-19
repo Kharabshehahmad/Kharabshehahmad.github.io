@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Recognition
+## Recognition
 
 **Helen Horowitz Award for Outstanding Teaching by a Graduate Student** — University at Albany, SUNY (2025)
 *Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
@@ -27,6 +27,8 @@ I have received teaching evaluations above the departmental average across all s
 
 ### Selected Student Comments
 
+> "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
+> 
 > "Without a doubt the best course I've taken so far in undergrad. Communicated effectively, challenging but gives all the tools necessary to be successful. Outstanding."
 
 > "Ability to tailor the material to meet the varying levels of the students in class. Acceptable and open to ideas and feedback."
@@ -35,7 +37,6 @@ I have received teaching evaluations above the departmental average across all s
 
 > "Key topics are presented with clarity, ensuring students build strong conceptual understanding. The course links theory to real-world applications. The instructor fosters a dynamic learning environment, encouraging active participation from students."
 
-> "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
 
 ---
 ## Academic Experience

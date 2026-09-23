@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-For more, see my [Research](/research/), [Teaching](/teaching/), and [CV](/files/ahmad_cv_no_phone.pdf).
+For more, see my [Research](/research/), [Teaching](/teaching/), and [CV](/files/kharabsheh_cv.pdf).

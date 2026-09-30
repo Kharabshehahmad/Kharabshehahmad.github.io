@@ -28,13 +28,15 @@ I have received teaching evaluations above the departmental average across all s
 ### Selected Student Comments
 
 > "I think a major strength of this course and the professor is how he was very receptive to students' input. He thoughtfully considered both comments and questions. He also tried his best to make
-this course as fair as possible, and I do think he succeeded in doing. I appreciated the interactive lectures. It forced me to not only pay attention, but also helped me with taking notes. You can tell he is very intelligent and enjoys the course concepts. He always recommended us other economics courses that were similar to the particular subject matter we were learning. He also spoke fondly of one professor and how he wished to implement similar lecture/class-based styles of instruction, and I think that mentor would be proud. I like the slides, although at a couple of times (particularly the later units) they were a little difficult to understand. I also appreciated the homework assignments. I really liked how they were only 5, and he did provide helpful feedback if you strayed from answering the question properly. And the biggest game changer for the course was the better execution of review slides before the big exam. I'm glad the professor spent time going over each question and even relaying the question to the class for us to answer. By far, I believe this is the most difficult course I've taken at UAlbany. However, this professor's class has made me think in a way that I knew I've been missing. And for that, I'm very thankful. I would definitely take his class again; he was great
-
-> "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
-> 
-> "Without a doubt the best course I've taken so far in undergrad. Communicated effectively, challenging but gives all the tools necessary to be successful. Outstanding."
+this course as fair as possible, and I do think he succeeded in doing. I appreciated the interactive lectures. It forced me to not only pay attention, but also helped me with taking notes. You can tell he is very intelligent and enjoys the course concepts. He always recommended us other economics courses that were similar to the particular subject matter we were learning. He also spoke fondly of one professor and how he wished to implement similar lecture/class-based styles of instruction, and I think that mentor would be proud. I like the slides, although at a couple of times (particularly the later units) they were a little difficult to understand. I also appreciated the homework assignments. I really liked how they were only 5, and he did provide helpful feedback if you strayed from answering the question properly. And the biggest game changer for the course was the better execution of review slides before the big exam. I'm glad the professor spent time going over each question and even relaying the question to the class for us to answer. By far, I believe this is the most difficult course I've taken at UAlbany. However, this professor's class has made me think in a way that I knew I've been missing. And for that, I'm very thankful. I would definitely take his class again; he was great"
 
 > "Ability to tailor the material to meet the varying levels of the students in class. Acceptable and open to ideas and feedback."
+
+> "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
+
+> "Without a doubt the best course I've taken so far in undergrad. Communicated effectively, challenging but gives all the tools necessary to be successful. Outstanding."
+
+
 
 
 

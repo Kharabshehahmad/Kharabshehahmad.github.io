@@ -12,7 +12,7 @@ author_profile: true
 
 ## Teaching Evaluations
 
-I have received teaching evaluations above the departmental average across all semesters as instructor of record for AECO 355 — Public Finance at the University at Albany, SUNY. Full evaluation reports are available upon request.
+I have received teaching evaluations above the departmental average across all semesters as instructor of record at the University at Albany, SUNY. Full evaluation reports are available upon request.
 
 
 ### Summary (5-point scale)

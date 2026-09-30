@@ -49,7 +49,7 @@ this course as fair as possible, and I do think he succeeded in doing. I appreci
 
 - **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
 - **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
-- **AECO 111 — Principles of Macroeconomics** (Undergraduate, in-person)— Fall 2026
+- **AECO 111 — Principles of Macroeconomics** (Undergraduate, Hybrid)— Fall 2026
 - **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Spring 2024
 
 

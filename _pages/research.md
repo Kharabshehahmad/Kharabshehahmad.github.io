@@ -29,7 +29,6 @@ author_profile: true
 January 5, 2027 (ASHEcon-nominated session) 
 Presenting: "When Training Stops: The Effects of Residency Program Closures on Mortality Rate" (with Hyoshin Ki)
 
-&nbsp;
 
 **Center for Aging and Policy Studies (CAPS) Fall Conference** — Syracuse University 
 October 29, 2026 (poster session) 

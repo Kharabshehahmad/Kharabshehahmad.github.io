@@ -25,10 +25,13 @@ author_profile: true
 
 ## Upcoming Presentations
 
+
+
 **ASSA Annual Meeting**, January 5, 2027 — Washington, D.C.
 *ASHEcon Session, ASSA Annual Meeting*
-
 Presenting: **"When Training Stops: The Effects of Residency Program Closures on Mortality Rate"** *(with Hyoshin Ki)*
 
+**Center for Aging and Policy Studies (CAPS) Fall Conference** — Syracuse University, October 29, 2026 *(poster session)*
+Presenting: **"When Training Stops: The Effects of Residency Program Closures on Mortality Rate"** *(with Hyoshin Ki)*
 ---
 

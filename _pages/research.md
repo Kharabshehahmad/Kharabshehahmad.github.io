@@ -10,14 +10,15 @@ author_profile: true
 **When Training Stops: The Effects of Residency Program Closures on Mortality Rate**
 *with Hyoshin Ki*
 
-**Health Insurance Coverage and the Distribution of Premature Mortality**
-*with Jiahao Lin*
 
 **Neighborhood Deprivation and Geographical Access to Physicians**
 *with Chun-Yu Ho*
 
 ## Work in Progress
 
+
+**Health Insurance Coverage and the Distribution of Premature Mortality**
+*with Jiahao Lin*
 
 **Impact of School Quality and Physician Location: Evidence from New York State**
 *with Chun-Yu Ho and Hyoshin Ki*
@@ -30,4 +31,6 @@ author_profile: true
 January 5, 2027 (ASHEcon-nominated session) 
 Presenting: "When Training Stops: The Effects of Residency Program Closures on Mortality Rate" (with Hyoshin Ki)
 
-
+**Center for Aging and Policy Studies (CAPS) Annual Conference** — Syracuse University
+October 29, 2026
+Poster: "When Training Stops: The Effects of Residency Program Closures on Mortality Rate" (with Hyoshin Ki)

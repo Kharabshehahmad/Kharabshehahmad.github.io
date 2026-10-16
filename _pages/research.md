@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-## Upcoming Presentations
+## Conference Presentations
 
 **ASSA Annual Meeting** — Washington, D.C. 
 January 5, 2027. (ASHEcon-nominated session) 

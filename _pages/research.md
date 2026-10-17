@@ -18,7 +18,7 @@ author_profile: true
 
 
 **Health Insurance Coverage and the Distribution of Premature Mortality**
-*with Jiahao Lin*
+*with Hyoshin Ki and Jiahao Lin*
 
 **Impact of School Quality and Physician Location: Evidence from New York State**
 *with Chun-Yu Ho and Hyoshin Ki*

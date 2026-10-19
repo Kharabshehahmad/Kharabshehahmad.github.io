@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-For more, see my [JMP] (/files/kharabsheh_jmp.pdf), [Research](/research/), [Teaching](/teaching/), and [CV](/files/kharabsheh_cv.pdf).
+For more, see my [JMP](/files/kharabsheh_jmp.pdf), [Research](/research/), [Teaching](/teaching/), and [CV](/files/kharabsheh_cv.pdf).

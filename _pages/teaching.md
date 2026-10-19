@@ -5,6 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Academic Experience
+
+### Part-time Lecturer (2024–Present)
+*Department of Economics, University at Albany, SUNY*
+
+**Courses Taught:**
+
+- **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
+- **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
+- **AECO 111 — Principles of Macroeconomics** (Undergraduate, Hybrid)— Spring 2024
+- **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Fall 2026
+
+
+### Graduate Assistant (2021–2024)
+
+*Department of Economics, University at Albany, SUNY*
+
+- **Teaching Assistant — AECO 374W Industrial Organization** (Fall 2023)
+- **Teaching Assistant — AECO 355 Public Finance** (Fall 2022)
+- **Tutor — AECO 110 Principles of Microeconomics & AECO 111 Principles of Macroeconomics** (Spring 2022, Spring 2023)
+
+
 ## Recognition
 
 **Helen Horowitz Award for Outstanding Teaching by a Graduate Student** — University at Albany, SUNY (2025)
@@ -34,30 +56,3 @@ I have received teaching evaluations above the departmental average across all s
 > "Always available to ask questions. Responds to emails in a timely manner. Thoroughly explains topics."
 
 > "Without a doubt the best course I've taken so far in undergrad. Communicated effectively, challenging but gives all the tools necessary to be successful. Outstanding."
-
-
-
-
-
-
----
-## Academic Experience
-
-### Part-time Lecturer (2024–Present)
-*Department of Economics, University at Albany, SUNY*
-
-**Courses Taught:**
-
-- **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
-- **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
-- **AECO 111 — Principles of Macroeconomics** (Undergraduate, Hybrid)— Spring 2024
-- **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Fall 2026
-
-
-### Graduate Assistant (2021–2024)
-
-*Department of Economics, University at Albany, SUNY*
-
-- **Teaching Assistant — AECO 374W Industrial Organization** (Fall 2023)
-- **Teaching Assistant — AECO 355 Public Finance** (Fall 2022)
-- **Tutor — AECO 110 Principles of Microeconomics & AECO 111 Principles of Macroeconomics** (Spring 2022, Spring 2023)

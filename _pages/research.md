@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 **When Training Stops: The Effects of Residency Program Closures on Mortality Rate**
-*with Hyoshin Ki*
+*with Hyoshin Ki* [Download PDF](/files/kharabsheh_jmp.pdf)
 
 
 **Neighborhood Deprivation and Geographical Access to Physicians**

@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ahmad Kharabsheh"
 title_separator          : "-"
 name                     : &name "Ahmad Kharabsheh"
-description              : &description "PhD Candidate in Economics at the University at Albany, SUNY"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate in Econometrics and Quantitative Economics at the University at Albany SUNY"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://kharabsheh.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kharabshehahmad/Kharabshehahmad.github.io"

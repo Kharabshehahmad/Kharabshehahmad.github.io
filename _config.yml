@@ -150,10 +150,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
-
+    tracking_id          : "G-QY98GF2S7L"
+    anonymize_ip         : true
 
 # Reading Files
 include:

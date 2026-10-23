@@ -16,7 +16,8 @@ author_profile: true
 - **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
 - **AECO 111 — Principles of Macroeconomics** (Undergraduate, Hybrid)— Spring 2024
 - **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Fall 2026
-                                              (Undergraduate, Online) — Winter 2027
+- **AECO 110 — Principles of Microeconomics** (Undergraduate, Online) — Winter 2027
+                                              
 
 ### Graduate Assistant (2021–2024)
 

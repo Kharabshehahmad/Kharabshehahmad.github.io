@@ -12,7 +12,7 @@ author_profile: true
 
 **Courses Taught:**
 
-- **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
+- **AECO 355 — Public Finance** (Undergraduate, in-person) — Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026, Spring 2027
 - **AECO 300 — Intermediate Microeconomics** (Undergraduate, Online) — Summer 2025, Summer 2026
 - **AECO 111 — Principles of Macroeconomics** (Undergraduate, Hybrid)— Spring 2024
 - **AECO 110 — Principles of Microeconomics** (Undergraduate, in-person) — Fall 2026

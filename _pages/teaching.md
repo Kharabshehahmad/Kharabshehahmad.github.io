@@ -31,7 +31,6 @@ author_profile: true
 ## Recognition
 
 **Helen Horowitz Award for Outstanding Teaching by a Graduate Student** — University at Albany, SUNY (2025)
-*Established in honor of Professor Helen Horowitz to recognize exceptional teaching by graduate students.*
 
 ## Teaching Evaluations
 

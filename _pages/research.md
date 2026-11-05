@@ -21,7 +21,7 @@ author_profile: true
 *with [Hyoshin Ki](https://sites.google.com/view/hyoshinki/)* and *Jiahao Lin*
 
 **Impact of School Quality and Physician Location: Evidence from New York State**
-*with [Chun-Yu Ho](https://www.albany.edu/economics/faculty/chun-yu-ho)* and [Hyoshin Ki](https://sites.google.com/view/hyoshinki/)*
+*with [Chun-Yu Ho](https://www.albany.edu/economics/faculty/chun-yu-ho)* and *[Hyoshin Ki](https://sites.google.com/view/hyoshinki/)*
 
 
 

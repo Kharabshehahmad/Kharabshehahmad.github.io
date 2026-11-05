@@ -30,4 +30,4 @@ author_profile: true
 **ASSA Annual Meeting** — Washington, D.C. 
 January 5, 2027. (ASHEcon-nominated session) 
 <br>
-Presenting: "When Training Stops: The Effects of Residency Program Closures on Mortality Rate" (with Hyoshin Ki)
+Presenting: "When Training Stops: The Effects of Residency Program Closures on Mortality Rate" with *[Hyoshin Ki](https://sites.google.com/view/hyoshinki/)*

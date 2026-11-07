@@ -1,14 +1,33 @@
 
 <style>
+  /* Default (all screens) */
   .author__avatar img {
-    max-width: 220px !important;
+    max-width: 100% !important;
     border-radius: 0 !important;
   }
+
+  /* Mobile (small screens) */
+  @media (max-width: 63.9375em) {
+    .author__avatar {
+      display: table-cell !important;
+      vertical-align: top !important;
+      width: 150px !important;
+    }
+    .author__avatar img {
+      width: 150px !important;
+      height: 150px !important;
+      max-width: 150px !important;
+      border-radius: 0 !important;
+    }
+  }
+
+  /* Desktop (large screens) */
   @media (min-width: 64em) {
     .sidebar .author__avatar img {
-      max-width: 220px !important;
-      width: 220px !important;
-      height: 220px !important;
+      max-width: 280px !important;
+      width: 280px !important;
+      height: 280px !important;
+      border-radius: 0 !important;
     }
   }
 </style>
